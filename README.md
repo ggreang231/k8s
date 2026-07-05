@@ -118,5 +118,3 @@
 
 ## 관련 문서 
 -  📜 [왜 쿠버네티스는 systemd로 cgroup을 관리하려고 할까요?](https://www.slideshare.net/JoHoon1/systemd-cgroup)
-# git_test
-# first-repository
